@@ -1,6 +1,6 @@
 # MD5 Helper
 
-This script is to calculate md5sum of a file. As we all very well know a script like this is
+This script is to calculate md5sum of a file. As we all very well know a script like this
 would be pointless on Linux systems, since that calculation is as simple as typing `md5sum` on your terminal.
 But unfortunately, sometimes we have to do things on Windows.
 
