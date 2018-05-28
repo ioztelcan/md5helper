@@ -8,7 +8,7 @@ But unfortunately, sometimes we have to do things on Windows.
 
 1. Shift right-click on the file of which md5sum will be calculated.
 2. Click on *Copy as path*.
-3. Paste the copied path as the input argument.
+3. Paste the copied path as the input argument, i.e run `python md5helper.py [path to your file]`
 
 ## License
 
